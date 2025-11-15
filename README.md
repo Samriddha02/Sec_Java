@@ -1,53 +1,51 @@
-Hadiuz Zaman  
-ENG24AM0183
+Samriddha Ghosh  
+ENG24AM0356
 
-1. Age.java is for prompt user to enter birth year and current year and then calculate age.
-2. AreaCircle.java is for takinf radius as input from user and then print the area of a circle (pi value is stored in a variable).
-3. ArithmeticOperation.java is for performing Arithmatic Operations such as Addition(+), Substraction(-),Multiplication(*),Division(/).
-4. Array.java is for an array of size 10 and stores squares of the numbers to this array. and prints any one of them.
-5. ArrayEvenOdd.java is for taking size and elements from user and count the number of Even and Odd numbers.
-6. ArrayInputSumAvg.java is for taking size and elements from user , display the elements , Sum of the Elements and Average of the Elements.
-7. ArraySearch.java is for Searching a element from the Array and print the index number.
-8. BitwiseOperation.java is for performing Bitwise Operations such as AND(&), OR(|),XOR(^),NOT(~), Left Shift(<<), Right Shift(>>), Unsigned Shift(<<<,>>>) .
-9. ConditionalOperation.java is for performing of an example of Ternary Operator for Descision Making ( condition? True:False) .
-10. Even.java is for Checking the entered number is even or odd.
-11. GradeExample.java is for Print result using Conditional Operation.
-12. Greater.java is for Greater of two Numbers.
-13. Greetings.java is for prompt user to enter Name and Age, And print those as a Greeting messege.
-14. InceDecreOperation.java is for performing Increamental & Decreamental operations (++,--) .
-15. InhHierarchialParent.java is for example of Hierarchial Inheritance.
-16. InhHybrid.java is for example of Hybrid Inheritance.
-17. InhMultiLevelA.java is for example of Multilevel Inheritance.
-18. InhMultiple.java is for example of Multiple Inheritance.
-19. InhrDoctorExample.java is to create a program Different doctors charge different consultation fees. The base class Doctor has a method consultationFee(). And Override it in subclasses Dentist, Cardiologist, and Surgeon to show different fees.
-20. InhrEmployeeExample.java is to create a program where: Employee class has attributes name and salary, and a method displayInfo().Manager class inherits from Employee and has an extra attribute department.Print all details using an object of Manager.
-21. InhrShapeExample.java is tto create a program where: Circle with a method area() to calculate area of a circle. Rectangle with a method area() to calculate area of a rectangle. In main(),create objects of both subclasses and call methods.
-22. InhrTransportExample.java is to create a Transport class → method move() ,Bus class (extends Transport) → method carryPassengers() ,Truck class (extends Transport) → method carryGoods() ,Demonstrate hierarchical inheritance by creating both objects.
-23. InhSingleParent.java is for example of Single Parent Inheritance.
-24. M2Break.java is for example of break statement.
-25. M2Continue.java is for example of Continue statement.
-26. M2DoWhileLoop.java is for example of Do-While loop.
-27. M2FoorLoop.java is for Example of foor loop.
-28. M2ForEach.java is for example of For Eaach loop.
-29. M2IfElse.java is for If-Else example.
-30. M2IfNested.java is for Nested if example.
-31. M2SwitchCase.java is for example of Switch Case.
-32. Marks.java is for taking Marks of 3 subject as input from user and then prints Total and Average mark.
-33. MethodOverridingExample.java is for example of method overriding.
-34. Multiplicationtable.java is for Multiplication table.
-35. Positive.java is Code for checking whether the entered number is positive or negative.
-36. PositiveNegativeZero.java is for determinig wheater the entered number is Positive or Negative or Zero using Conditional Operation.
-37. RelationalOperation.java is for relational operations such as Equal to (==), Not Equal to(!=), Greater than (>), Less than (<) .
-38. Square.java is for Squaring a Number entered by an user.
-39. StingFirstLast.java is for taking a string as inpt from user and print its Fisrt and Last letters.
-40. StringConvert.java is for taking string as input from user then replace all "a" from the user to "o".
-41. StringFunctions.java is for string functions.
-42. StringLength.java is for Taking a string as input from user and print its length.
-43. StringReverse.java is for taking string as input from user then reverse it and print it and then checks for palindrome or not.
-44. StudentDemo.java is for to create a student class and display student information.
-45. SwapNumbers.java is for Swap two Number.
-
-
+1. **Age.java** – Prompts the user for birth year and current year, then calculates and displays the age.
+2. **AreaCircle.java** – Takes radius as user input and prints the area of a circle (using a stored variable for pi).
+3. **ArithmeticOperation.java** – Performs basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
+4. **Array.java** – Creates an array of size 10, stores the squares of numbers in it, and prints one of the stored values.
+5. **ArrayEvenOdd.java** – Accepts size and elements from the user, then counts how many numbers are even and how many are odd.
+6. **ArrayInputSumAvg.java** – Takes array size and elements, displays them, and calculates the sum and average of the elements.
+7. **ArraySearch.java** – Searches for a specific value inside an array and prints the index where it is found.
+8. **BitwiseOperation.java** – Demonstrates bitwise operators: AND (&), OR (|), XOR (^), NOT (~), left shift (<<), right shift (>>), and unsigned shifts (<<<, >>>).
+9. **ConditionalOperation.java** – Shows an example of the ternary operator for decision making (condition ? value_if_true : value_if_false).
+10. **Even.java** – Checks whether a given number is even or odd.
+11. **GradeExample.java** – Prints the result/grade using conditional checks.
+12. **Greater.java** – Determines the greater of two numbers.
+13. **Greetings.java** – Takes the user's name and age as input and displays a greeting message including both.
+14. **InceDecreOperation.java** – Demonstrates increment and decrement operations (++ and --).
+15. **InhHierarchialParent.java** – Example program showing hierarchical inheritance.
+16. **InhHybrid.java** – Example program demonstrating hybrid inheritance.
+17. **InhMultiLevelA.java** – Shows the concept of multilevel inheritance.
+18. **InhMultiple.java** – Demonstrates multiple inheritance (usually through interfaces in Java).
+19. **InhrDoctorExample.java** – Program where different types of doctors charge different consultation fees by overriding the consultationFee() method in subclasses like Dentist, Cardiologist, and Surgeon.
+20. **InhrEmployeeExample.java** – Program where Employee has name and salary, and Manager inherits Employee and adds a department field; displays complete information.
+21. **InhrShapeExample.java** – Program where Circle and Rectangle each have an area() method; objects are created in main() and their areas are displayed.
+22. **InhrTransportExample.java** – Demonstrates hierarchical inheritance with a Transport class having move() and subclasses Bus and Truck having their own methods.
+23. **InhSingleParent.java** – Simple example of single inheritance.
+24. **M2Break.java** – Demonstrates the use of the break statement.
+25. **M2Continue.java** – Demonstrates the continue statement in loops.
+26. **M2DoWhileLoop.java** – Example showing how a do-while loop works.
+27. **M2FoorLoop.java** – Basic example program using a for loop.
+28. **M2ForEach.java** – Demonstrates the enhanced for-each loop for iterating through arrays.
+29. **M2IfElse.java** – Simple program using if-else statements.
+30. **M2IfNested.java** – Example showing nested if conditions.
+31. **M2SwitchCase.java** – Example program demonstrating switch-case structure.
+32. **Marks.java** – Takes marks of three subjects from the user and prints the total and average.
+33. **MethodOverridingExample.java** – Demonstrates method overriding in Java.
+34. **Multiplicationtable.java** – Generates and displays a multiplication table for a number.
+35. **Positive.java** – Checks whether a number is positive or negative.
+36. **PositiveNegativeZero.java** – Uses conditional operator to identify whether a number is positive, negative, or zero.
+37. **RelationalOperation.java** – Shows relational operations like ==, !=, >, <.
+38. **Square.java** – Calculates and prints the square of a user-entered number.
+39. **StingFirstLast.java** – Takes a string from the user and prints its first and last characters.
+40. **StringConvert.java** – Accepts a string and replaces all occurrences of 'a' with 'o'.
+41. **StringFunctions.java** – Demonstrates different string-related methods.
+42. **StringLength.java** – Reads a string from the user and displays its length.
+43. **StringReverse.java** – Takes a string, reverses it, prints the reversed version, and checks if it's a palindrome.
+44. **StudentDemo.java** – Creates a Student class and displays the student’s details.
+45. **SwapNumbers.java** – Swaps two numbers.
 
 
 
