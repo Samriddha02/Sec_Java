@@ -46,6 +46,10 @@ ENG24AM0356
 43. **StringReverse.java** – Takes a string, reverses it, prints the reversed version, and checks if it's a palindrome.
 44. **StudentDemo.java** – Creates a Student class and displays the student’s details.
 45. **SwapNumbers.java** – Swaps two numbers.
-
+46. **ModulusOperation.java** - This program reads two integers and performs the modulus operation. It handles the built-in ArithmeticException to catch cases where the second number entered is zero.
+47. **ArrayAllocation.java** - This program reads an integer representing an array size and attempts to allocate the array dynamically. It handles NegativeArraySizeException if the user inputs a negative value for the size.
+48. **StringConversion.java** - This program reads a string from the user, attempts to extract the first three characters, and convert them to an integer. It handles both StringIndexOutOfBoundsException (for short strings)                                 and NumberFormatException (if the characters are not numerical).
+49. **FileReadExample.java** - This program attempts to open a file and read its first line. It handles file access errors by catching FileNotFoundException and the more general IOException separately.
+50. **EmailValidator.java** - This program validates a user-input email address. It throws a custom exception, InvalidEmailException, if the entered string does not contain the required @ symbol.
 
 
