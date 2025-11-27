@@ -30,3 +30,8 @@ class Main {
         e.showDetails();
     }
 }
+
+
+Output_2:
+Product ID: 101
+Warranty: 2 years
