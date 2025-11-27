@@ -20,3 +20,7 @@ class DivideNumbers {
 }
 
 
+Output_1:
+Enter first number: 10
+Enter second number: 2
+Result = 5
